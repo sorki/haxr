@@ -34,6 +34,7 @@ module Network.XmlRpc.Client
     (
      remote, remoteWithHeaders,
      call, callWithHeaders,
+     post,
      Remote
     ) where
 
